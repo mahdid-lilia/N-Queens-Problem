@@ -11,5 +11,4 @@ References:
 <ul>
   <li>http://letstalkdata.com/2013/12/n-queens-part-1-steepest-hill-climbing/</li>
   <li>http://letstalkdata.com/2013/12/n-queens-part-2-more-algorithms/</li>
-  <li>https://developers.google.com/optimization/puzzles/queens</li>
 </ul>
